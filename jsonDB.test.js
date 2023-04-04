@@ -1,9 +1,3 @@
-# Json-DB
-
-
-## test
-
-```
 
 const jsonDB = require('./json-DB');
 
@@ -15,5 +9,3 @@ db.getAll().then((data) => console.log(data));
 db.update(2, { id: 2, name: 'loke', age: 18 });
 db.delete(1);
 db.getAll().then((data) => console.log(data));
-
-```
