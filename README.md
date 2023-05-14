@@ -1,9 +1,11 @@
 # Json-DB
-
+  a simple architectured json Database using Json as its storage format 
+ 
+> note : This projct is still under development 
 
 ## test
 
-```
+```javascript
 
 const jsonDB = require('./json-DB');
 
